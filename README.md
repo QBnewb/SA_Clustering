@@ -1,2 +1,1 @@
-# SA_Clustering
-Clustering with simulated annealing
+# Seminarski iz Optimizacije resursa - Klasterizacija primjenom simuliranog hlađenja
